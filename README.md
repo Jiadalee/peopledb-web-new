@@ -1,1 +1,2 @@
-# RESTful Web application using Java SpringBoot and Javascript
+# Springboot Web application 
+Developing Web application using Java JPA, SpringBoot, Javascript/HTML/CSS, React.js, and Bootstrap themleaf
